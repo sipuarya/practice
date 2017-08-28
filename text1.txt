@@ -7,3 +7,10 @@ added something by dev1
 
 dev2 working and tries to commit
 
+again change by second developer
+
+this is another modification
+
+=====final check===========
+
+last added by dev2
