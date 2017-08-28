@@ -2,4 +2,6 @@ hello world !..
 
 Modified in 1.0
 
+added something by dev1
+
 dev2 working and tries to commit
