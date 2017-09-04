@@ -1,1 +1,2 @@
 this is new text file
+one more line added by new member
